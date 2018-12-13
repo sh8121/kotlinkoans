@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df51679-feec-4553-865a-1a43fb28b89c" name="Default Changelist" comment="" />
+    <list default="true" id="3df51679-feec-4553-865a-1a43fb28b89c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Builders/Builders how it works/.gradle/" />
@@ -178,16 +277,48 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1412779589">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="kt" value="328" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Kotlin" value="328" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="kt" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="Kotlin" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="133">
-                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                <MainEditorState relative-caret-position="95">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -196,10 +327,13 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\sboo\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\lgpc\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -8642,7 +8776,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4633978990167" />
+        <entry key="$PROJECT_DIR$" value="4634097944496" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2568584895" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2481743265" />
@@ -10655,6 +10789,9 @@
         <option value="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" />
         <option value="$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -10665,17 +10802,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="-14" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="30" />
+    <option name="y" value="-15" />
+    <option name="width" value="1938" />
+    <option name="height" value="1058" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Course" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Course">
         <subPane>
           <expand>
@@ -10694,24 +10834,33 @@
               <item name="Introduction" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
+              <item name="Kotlin Koans" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -10740,16 +10889,18 @@
       <workItem from="1544660666243" duration="1171000" />
       <workItem from="1544674855096" duration="5035000" />
       <workItem from="1544690087689" duration="128000" />
+      <workItem from="1544699478423" duration="426000" />
+      <workItem from="1544699944788" duration="2994000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7317000" />
+    <option name="totallyTimeSpent" value="10737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -10763,7 +10914,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" show_stripe_button="false" />
@@ -10772,7 +10923,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.32995737" />
+      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.3295302" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
@@ -10789,124 +10940,74 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/JavaCode.java">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="18" selection-end-column="1" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/JavaCode.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Strings/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Data classes/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" />
+    <entry file="file://$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="2289" column="27" selection-start-line="2289" selection-start-column="27" selection-end-line="2289" selection-end-column="27" />
+        <state relative-caret-position="218">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Hello, world!/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </MainEditorState>
-          </EduEditorState>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Java to Kotlin conversion/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="171">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </MainEditorState>
-          </EduEditorState>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/d46e00faac79f8ec6bb956154ecde4282871a6bf/kotlin-stdlib-1.3.11-sources.jar!/kotlin/TypeAliases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="76" lean-forward="true" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </MainEditorState>
-          </EduEditorState>
+    <entry file="file://$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Strings/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Data classes/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="190">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
             </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
@@ -10917,12 +11018,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <MainEditorState relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </MainEditorState>
           </EduEditorState>
         </state>

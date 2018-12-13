@@ -836,9 +836,9 @@
                       </option>
                       <option name="index" value="11" />
                       <option name="name" value="Object expressions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234730" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Task.kt">
@@ -860,19 +860,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="9" />
-                                      <option name="offset" value="120" />
+                                      <option name="length" value="92" />
+                                      <option name="offset" value="143" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="object {}" />
                                       <option name="possibleAnswer" value="object : Comparator&lt;Int&gt; {&#10;    override fun compare(x: Int, y: Int) = y - x&#10;}" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.*&#10;&#10;fun getList(): List&lt;Int&gt; {&#10;    val arrayList = arrayListOf(1, 5, 2)&#10;    Collections.sort(arrayList, object {})&#10;    return arrayList&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -906,9 +906,9 @@
                       </option>
                       <option name="index" value="12" />
                       <option name="name" value="SAM conversions" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234731" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Task.kt">
@@ -930,19 +930,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="5" />
                                       <option name="offset" value="130" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="y - x" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import java.util.*&#10;&#10;fun getList(): List&lt;Int&gt; {&#10;    val arrayList = arrayListOf(1, 5, 2)&#10;    Collections.sort(arrayList, { x, y -&gt; TODO() })&#10;    return arrayList&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -976,9 +976,9 @@
                       </option>
                       <option name="index" value="13" />
                       <option name="name" value="Extensions on collections" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234732" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Task.kt">
@@ -1000,19 +1000,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="52" />
-                                      <option name="offset" value="58" />
+                                      <option name="length" value="35" />
+                                      <option name="offset" value="62" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="//TODO(&quot;return the list sorted in descending order&quot;)" />
                                       <option name="possibleAnswer" value=".sortedDescending()" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun getList(): List&lt;Int&gt; {&#10;    return arrayListOf(1, 5, 2)//TODO(&quot;return the list sorted in descending order&quot;)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
