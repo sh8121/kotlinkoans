@@ -1059,9 +1059,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Comparison" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="234733" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/Task.kt">
@@ -1083,19 +1083,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
-                                      <option name="offset" value="97" />
+                                      <option name="length" value="1" />
+                                      <option name="offset" value="300" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value="override fun compareTo(other: MyDate) = when {&#10;        year != other.year -&gt; year - other.year&#10;        month != other.month -&gt; month - other.month&#10;        else -&gt; dayOfMonth - other.dayOfMonth&#10;    }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable&lt;MyDate&gt; {&#10;    /* TODO */&#10;}&#10;&#10;fun compare(date1: MyDate, date2: MyDate) = date1 &lt; date2&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1131,7 +1131,7 @@
                       <option name="name" value="In range" />
                       <option name="status" value="Unchecked" />
                       <option name="stepId" value="234734" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="src/MyDate.kt">
@@ -1169,19 +1169,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="60" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value=" {&#10;    operator fun contains(item: MyDate): Boolean = start &lt;= item &amp;&amp; item &lt;= endInclusive&#10;}" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val endInclusive: MyDate)/* TODO */&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in DateRange(first, last)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
