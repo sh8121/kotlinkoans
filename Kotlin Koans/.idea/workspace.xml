@@ -8,12 +8,175 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/classes/java/main/TaskKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/classes/java/main/TaskKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -231,29 +394,30 @@
     <session id="-621865651">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="578" />
+          <entry key="kt" value="1740" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="578" />
+          <entry key="Kotlin" value="1740" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="3" />
+          <entry key="kt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="3" />
+          <entry key="Kotlin" value="21" />
         </counts>
       </usages-collector>
     </session>
@@ -261,12 +425,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Builders/Html builders/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="95">
-                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                <MainEditorState relative-caret-position="399">
+                  <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -274,23 +438,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Shop.kt">
+        <entry file="file://$PROJECT_DIR$/Builders/Html builders/src/html.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState>
-                  <caret column="61" lean-forward="true" selection-start-column="61" selection-end-column="61" />
+                <MainEditorState relative-caret-position="706">
+                  <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
                 </MainEditorState>
               </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="1211" column="3" lean-forward="true" selection-start-line="1211" selection-start-column="3" selection-end-line="1211" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -308,7 +463,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\lgpc\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\sboo\.gradle\wrapper\dists\gradle-4.8-bin\divx0s2uj4thofgytb7gf9fsi\gradle-4.8" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -8751,7 +8906,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4634097944496" />
+        <entry key="$PROJECT_DIR$" value="4633978990167" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2568584895" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2481743265" />
@@ -10784,6 +10939,15 @@
         <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Fold/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Properties/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -10815,32 +10979,34 @@
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="a264ea2a:RootNode" />
               <item name="Kotlin Koans" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="Builders" type="d53b8fed:LessonNode" />
               <item name="src" type="4928525d:TaskNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545276663240" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -10884,16 +11050,26 @@
       <workItem from="1544943788106" duration="4658000" />
       <workItem from="1545116399676" duration="151000" />
       <workItem from="1545220761195" duration="3439000" />
+      <workItem from="1545262916570" duration="9898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29121000" />
+    <option name="totallyTimeSpent" value="39019000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -10906,17 +11082,17 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32954547" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.32885906" />
+      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.3283582" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
@@ -10970,79 +11146,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introduction/Named arguments/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Default arguments/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Strings/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Data classes/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Smart casts/src/Task.kt" />
-    <entry file="file://$PROJECT_DIR$/Introduction/Extension functions/src/Task.kt" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Comparator.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/d46e00faac79f8ec6bb956154ecde4282871a6bf/kotlin-stdlib-1.3.11-sources.jar!/kotlin/TypeAliases.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" column="76" lean-forward="true" selection-start-line="29" selection-start-column="76" selection-end-line="29" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Object expressions/src/Task.kt">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/SAM conversions/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="76">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Introduction/Extensions on collections/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conventions/In range/src/MyDate.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/d46e00faac79f8ec6bb956154ecde4282871a6bf/kotlin-stdlib-1.3.11-sources.jar!/kotlin/Iterator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/kotlin/collections/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -11057,13 +11160,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="1099" column="40" lean-forward="true" selection-start-line="1099" selection-start-column="40" selection-end-line="1099" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/Conventions/For loop/src/MyDate.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -11378,7 +11475,18 @@
         <state>
           <EduEditorState>
             <MainEditorState>
-              <caret column="61" lean-forward="true" selection-start-column="61" selection-end-column="61" />
+              <caret column="61" selection-start-column="61" selection-end-column="61" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="38">
+              <caret line="2" column="71" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
             </MainEditorState>
           </EduEditorState>
         </state>
@@ -11386,8 +11494,8 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.11/e49742d3259938ea3539346c8ca3babb54a5140f/kotlin-stdlib-common-1.3.11-sources.jar!/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="1211" column="3" lean-forward="true" selection-start-line="1211" selection-start-column="3" selection-end-line="1211" selection-end-column="3" />
+        <state relative-caret-position="858">
+          <caret line="1193" column="37" selection-start-line="1193" selection-start-column="37" selection-end-line="1193" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -11395,8 +11503,168 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Fold/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="19">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/test/tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Properties/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Lazy property/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.11/d46e00faac79f8ec6bb956154ecde4282871a6bf/kotlin-stdlib-1.3.11-sources.jar!/kotlin/reflect/KProperty.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="380">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#1#75#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/String and map builders/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/The function apply/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Html builders/src/html.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="706">
+              <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Builders/Html builders/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="399">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
             </MainEditorState>
           </EduEditorState>
         </state>

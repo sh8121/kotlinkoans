@@ -1,0 +1,1 @@
+D:\SbooPrivate\GitRepository\kotlinkoans\Kotlin Koans\Collections\Compound tasks\test\tests.kt

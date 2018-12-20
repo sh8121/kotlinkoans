@@ -1,9 +1,13 @@
 import java.util.HashMap
 
-/* TODO */
+fun<K, V> buildMap(build: HashMap<K, V>.() -> Unit): Map<K, V>{
+    val map = hashMapOf<K, V>()
+    map.build()
+    return map
+}
 
 fun usage(): Map<Int, String> {
-    return buildMap {
+    return buildMap<Int, String> {
         put(0, "0")
         for (i in 1..10) {
             put(i, "$i")
